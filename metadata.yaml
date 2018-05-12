@@ -11,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8808
     wikipedia: http://www.culturaapicola.com.ar/wiki/index.php/Eduard_Philibert_Assmuss
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19673#Parasiten-der-Honigbieneund-die-durch-dieselben-bedingten-Krankheiten-dieses-Insects.
 gutenberg_bookshelf:
 - Biology
 - DE Sachbuch
